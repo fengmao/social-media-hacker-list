@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src='https://img.shields.io/github/last-commit/mobilefirstllc/better-social-media?style=flat-square'/>
-  <img src='https://img.shields.io/badge/entries-235-orange?style=flat-square' />
+  <img src='https://img.shields.io/badge/entries-236-orange?style=flat-square' />
   <img src='https://img.shields.io/badge/made%20with-Markdown-33A6B8.svg?style=flat-square'/>
   <img src='https://img.shields.io/badge/PRs-welcome-E87A90.svg?style=flat-square'/>
   <a href="https://github.com/MobileFirstLLC/social-media-hacker-list/actions"><img src='https://github.com/MobileFirstLLC/social-media-hacker-list/actions/workflows/check.yaml/badge.svg'/></a>
@@ -62,6 +62,7 @@ If you would like to add a project or suggest some other correction, edit this r
 | 5. | 🟥 | | [FBTake.com](https://fbtake.com/) | Web |  Facebook video downloader |
 | 6. | 🟥 | | [FVDownloader.net](https://fvdownloader.net/) | Web | Facebook Reels, Video, Profile Picture Downloader |
 | 7. | 🟫 | [❋](https://github.com/restfb/restfb) | [RestFB](https://restfb.com/) | Java | Open source FB Graph API client | 
+| 8. | 🟥 | | [IoDown](https://iodown.com/facebook-downloader/) | Web | Download available public Facebook videos from a link |
 
 * * *
 
